@@ -1,5 +1,7 @@
 # 使用方法
 
+es2015 语法
+
 ```js
 import {loadAllImages} from './index';
 
